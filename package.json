@@ -1,5 +1,5 @@
 {
-  "name": "@xiaozhongwei/react-native-spring-scrollview",
+  "name": "@xiaozhongwei/react-native-spring-scrollview-s",
   "version": "2.1.0-rc.4",
   "description": "A cross-platform (iOS & Android) spring ScrollView",
   "main": "index.js",
